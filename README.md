@@ -3,7 +3,6 @@
 [![Latest Stable Version](https://poser.pugx.org/acelords/laravel-users-online/v/stable)](https://packagist.org/packages/acelords/laravel-users-online)
 [![Total Downloads](https://poser.pugx.org/acelords/laravel-users-online/downloads)](https://packagist.org/packages/acelords/laravel-users-online)
 [![License](https://poser.pugx.org/acelords/laravel-users-online/license)](https://packagist.org/packages/acelords/laravel-users-online)
-[![Build Status](https://travis-ci.org/acelords/laravel-users-online.svg?branch=master)](https://travis-ci.org/acelords/laravel-users-online)
 
 ## Laravel compatibility
 
